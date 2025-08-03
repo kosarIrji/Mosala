@@ -1,0 +1,71 @@
+{
+  "alley": {
+    "name": "مصلی",
+    "code": "1404/06/08 ",
+    "area": " 35",
+    "population": " 4,200",
+    "rate": ""
+  },
+  "location": "",
+  "history": "",
+  "physicalAnalysis": "",
+
+  "functionalAnalysis": "",
+  "accessability": " ",
+  "overallAnalysis": "",
+  "qualities": {
+    "security": "",
+    "vitality": "",
+    "accessability": "",
+    "quality": "",
+    "greenSpace": "",
+    "trafic": ""
+  },
+  "priorities": [
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    }
+  ],
+  "conclusion": "",
+  "prosAndCons": [
+    {
+      "strengths": "سرزندگی اجتماعی بالا و فعالیت مستمر مردم در طول روز",
+      "weaknesses": "کمبود فضا برای پارکینگ عمومی و تراکم ترافیکی",
+      "opportunities": "پتانسیل  بالای مشارکت در ساخت و نوسازی",
+      "threats": "آلودگی صوتی و ترافیکی ناشی از مجاورت با مسیر های پر رفت و آمد "
+    },
+    {
+      "strengths": " دسترسی خوب به مراکز خدماتی",
+      "weaknesses": "وجود بافت قدیمی و فرسوده",
+      "opportunities": "ظرفیت جذب سرمایه گذاری در بخش تجاری-مسکونی با بازدهی بالا ",
+      "threats": "."
+    },
+    {
+      "strengths": "وجود کاربری های متنوع",
+      "weaknesses": "کمبود فضای سبز و پارک ",
+      "opportunities": ".",
+      "threats": "."
+    },
+    {
+      "strengths": "افزایش پویایی روزانه ",
+      "weaknesses": "افزایش تراکم ترافیک",
+      "opportunities": ".",
+      "threats": "."
+    }
+    
+  ]
+  
+}
