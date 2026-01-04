@@ -17,7 +17,7 @@ export default function FunctionalAnalysis() {
       {/* ستون 1: متن و نمودار */}
       <div className="lg:col-span-2 col-span-3  border bg-white/40 backdrop-blur-md  rounded-2xl shadow-sm p-5   text-xl w-full">
         <h3 className="text-3xl sm:text-2xl   w-full flex flex-row-reverse aling-centeritems-center text-right justify-end gap-2  font-modam font-extrabold   text-[var(--text)] mb-4 leading-snug ">
-          تار عملکرد شهری محله مصلی
+           عملکرد شهری محله مصلی
           <span>
             <Layers size={28} />
           </span>

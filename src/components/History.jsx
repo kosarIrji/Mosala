@@ -31,9 +31,9 @@ function History() {
       <section className="mt-3 border bg-white/50 backdrop-blur-md rounded-2xl shadow-md p-6 grid lg:grid-cols-4 gap-5">
         {/* عنوان و توضیحات */}
         <div className="lg:col-span-2">
-          <h3 className="text-3xl  w-full flex flex-row-reverse items-center text-right justify-end gap-2 font-modam font-extrabold text-[var(--text)] mb-4 leading-snug">
+          <h3 className="text-2xl  w-full flex flex-row-reverse items-center text-right justify-end gap-2 font-modam font-extrabold text-[var(--text)] mb-4 leading-snug">
             مصلی در بستر زمان؛ تاریخچه‌ای از یک محله در حال تغییر
-            <BookOpenIcon size={28} />
+           <span> <BookOpenIcon size={28} /></span>
           </h3>
 
           <p className="md:leading-loose lg:leading-loose font-modam text-justify text-base ">
